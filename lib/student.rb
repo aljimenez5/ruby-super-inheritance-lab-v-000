@@ -3,3 +3,7 @@ class Student
   
   def initialize
     @student = student
+  end
+  
+  def raise_hand
+    return "Pick me!"
